@@ -293,7 +293,7 @@ ORDER BY id DESC
 LIMIT 1;
 /*
 	Another Way:
-		DELETE FROM albums
+	DELETE FROM albums
         WHERE id = 19;
         
         DELETE FROM bands
